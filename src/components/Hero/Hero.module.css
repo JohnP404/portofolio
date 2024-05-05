@@ -1,0 +1,8 @@
+.hero {
+  min-height: calc(100vh - 92px);
+
+  & h1 {
+    width: 90%;
+    justify-self: center;
+  }
+}

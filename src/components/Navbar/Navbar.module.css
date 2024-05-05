@@ -1,0 +1,8 @@
+.navigationList {
+  & a {
+    transition: color var(--transition-1) ease-in;
+    &:hover {
+      color: hsl(172, 66%, 50%);
+    }
+  }
+}
